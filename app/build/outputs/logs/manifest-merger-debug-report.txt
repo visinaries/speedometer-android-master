@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\user\.android\build-cache\201ad71f2f9cceb4edd2a4ab9b7e351f0cfd9472\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\user\.android\build-cache\ca2c8375f99b82766ae3d181cc5590a3bb7ee803\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\user\.android\build-cache\57b8bcb348955676e126c8347ba65ec5d03e7e5b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\user\.android\build-cache\9344e873a904527b7bfd2ebd9ef5db336733fdc7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\user\.android\build-cache\d097c07c11bbbceb96990580a5c9726e4ce27e7d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\user\.android\build-cache\66d1bd08a4fce426beb42528db3814b855945e53\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\user\.android\build-cache\010b5e889f904076ea1f1d22cb1fa13106fc580f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\user\.android\build-cache\60dc7c5469541e8d8ecbb5550862446e7c85c06c\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\user\.android\build-cache\5abc9549c5a4ef2ff9b5bfb48d3238b541214317\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\user\.android\build-cache\35a79cbdd8eb202bf60d80fbd958bddc01e05aa1\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\user\.android\build-cache\65af7b8134a468c3b9be9d15fef6a5d251f68b4d\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\user\.android\build-cache\dd8276504e12c4e9e3218d579da1731c52362a46\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\user\.android\build-cache\f8bf879181e84d32a536c1ebc5c9f5ff835a0a3e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\user\.android\build-cache\2275e7b7f8a0f7f03abc1fbd7a5b822f02bac63f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\user\.android\build-cache\b39f2283858fe50f11fc2b580752dee305f93ea0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\user\.android\build-cache\296e2ea63133ed5925f1c846a18d45df12ea7c60\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\user\.android\build-cache\4269e527bebbe088945146412b870d9220755683\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\user\.android\build-cache\d5817d20d31c3713c2f0633f7315575645016958\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\user\.android\build-cache\1b1f290b7dc99ede09836fb9fa75e88c3b51a577\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\user\.android\build-cache\965d5a494283f430ae0f58223fceabecb38089f2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\user\.android\build-cache\f40d28a4d9d33681ecf70b658a924b119658dc69\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\user\.android\build-cache\f6b2cc12026528a8bdfc03eaecda77777810b441\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\user\.android\build-cache\836f68f96976acbcf2ffbdd88ce44e5754710941\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\user\.android\build-cache\eef2c0b665bc41b07a7615edf5d34723b177c033\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.android\build-cache\9bf6b5776ca156fbe70d4e8a851d6c41f88a6406\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\user\.android\build-cache\7e215059e14f205b2eaba053603249ed65ca2cdd\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.android\build-cache\115b7e5ce2e06b7554cc5d1daadd8eb493e7be20\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.iwgang:countdownview:2.1.3] C:\Users\user\.android\build-cache\eb4f1bf0b6d93d96a771a18b82dfe450a120af6c\output\AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:11:22-76
+application
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:13:5-32:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\user\.android\build-cache\836f68f96976acbcf2ffbdd88ce44e5754710941\output\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\user\.android\build-cache\9bf6b5776ca156fbe70d4e8a851d6c41f88a6406\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\user\.android\build-cache\115b7e5ce2e06b7554cc5d1daadd8eb493e7be20\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:16:9-41
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\user\.android\build-cache\836f68f96976acbcf2ffbdd88ce44e5754710941\output\AndroidManifest.xml:22:18-91
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:15:9-46
+	android:theme
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:17:9-65
+activity#net.mypapit.mobile.speedmeter.Final
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:18:9-52
+	android:name
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:18:19-40
+activity#net.mypapit.mobile.speedmeter.Activity2
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:19:9-47
+	android:name
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:19:19-44
+activity#net.mypapit.mobile.speedmeter.MainActivity
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:26:27-74
+activity#net.mypapit.mobile.speedmeter.SettingsActivity
+ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:29:9-31:52
+	android:label
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:31:13-49
+	android:name
+		ADDED from C:\Users\user\Desktop\speedometer-android-master\app\src\main\AndroidManifest.xml:30:13-45

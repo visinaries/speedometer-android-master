@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher1.png",
+        "source": "C:\\Users\\user\\Desktop\\speedometer-android-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\speedometer-android-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_background.png",
+        "source": "C:\\Users\\user\\Desktop\\speedometer-android-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    }
+]

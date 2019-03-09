@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\296e2ea63133ed5925f1c846a18d45df12ea7c60\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6d4c3181151ffbcd67897e94c688f6c200c5bec">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_1e7266023fdb7f45c719dd45ba4448b61af79ca8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\35a79cbdd8eb202bf60d80fbd958bddc01e05aa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1173d9f45ae18f2e0dc8ec42d15fa5b95c391d1">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_c4202813fc3ea8af5446f83eb062299fbca3e381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\201ad71f2f9cceb4edd2a4ab9b7e351f0cfd9472\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="234e706c7aea09f97738c7830d144d50d240079e">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_beec0375544e1ba19f594f0fca0675e8dc77400b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d097c07c11bbbceb96990580a5c9726e4ce27e7d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b05ce31f5d87a7f16cdbdbc5e3a7cf2190bf0118">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_4d27e331adbb260262f6848cd21e457489889fc5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9344e873a904527b7bfd2ebd9ef5db336733fdc7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba4c894fd0a3d36e8f06f4947ab639140e668088">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_29af635236b938328c1588a6d2bb67a3116392d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\57b8bcb348955676e126c8347ba65ec5d03e7e5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f77c6cfaee7ee7c8844d5340e47a38c3fdea7060">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_a45e36721576065c2b0242bea5623bc55481a679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\1b1f290b7dc99ede09836fb9fa75e88c3b51a577\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="925ec89d545e33030131b9470db85e701a8c61a4">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_45e2875f9d4e52f70dcd1effef8fd7bae8ec376b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\eb4f1bf0b6d93d96a771a18b82dfe450a120af6c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="822c1ca67975c7795533d9b2ae195e34d8ef4933">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_935137c439fbd5d4048083a1d691e8ab9b2cfc54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\4269e527bebbe088945146412b870d9220755683\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fad505737146925636e28753e26523c3a8a03e48">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_73e806708a854f80373f4456d91b4f2f584910b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7e215059e14f205b2eaba053603249ed65ca2cdd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9aff7eec7a0b091e460e44b8bb0bf64cadc0844">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_384007c8a311b72ba50e062cda0814a7a34b7002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support\collections\28.0.0\c1bcdade4d3cc2836130424a3f3e4182c666a745\collections-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1bcdade4d3cc2836130424a3f3e4182c666a745">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\collections-28.0.0_d65838e678eae7cea9f28674c2fdce46fcc9c90b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\d5817d20d31c3713c2f0633f7315575645016958\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="41b8c7e99024d4288d7dfc709bb72fdaa5fdc32f">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_0ccba2219f288b379f9d10618dfdc64cbea24885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\dd8276504e12c4e9e3218d579da1731c52362a46\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de467de1baba33a922246561f87c0a910206d1ff">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_470439731b585d52bbc0298bbd5c765d2fa3f42e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\60dc7c5469541e8d8ecbb5550862446e7c85c06c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="49b8af59d5819c80792707bdda93a5c9a917e24c">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_4736b66003431dd50e2d908002d6cc21d1c31b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\66d1bd08a4fce426beb42528db3814b855945e53\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b99e6cdcb85894164e1a06145a5f6b78e3cb7270">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_60be67520b66738e1e335e5c844116a2c191f62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\b39f2283858fe50f11fc2b580752dee305f93ea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be31b531309a9196873ba4ac96ea9484ca0ecad6">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_10224c3df8c78e9a48a325784fdd304c45293620.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\115b7e5ce2e06b7554cc5d1daadd8eb493e7be20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_f02f707b44f91910fa6ce5d9f95193a2f5b5d9f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\2275e7b7f8a0f7f03abc1fbd7a5b822f02bac63f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="376a25a3bdce5133262368e85d430aae5bb80c28">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_f02f8608028236a947734c346a6abe08bd3763f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\5abc9549c5a4ef2ff9b5bfb48d3238b541214317\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9335f203759bfcda4b6ea729dddcf06c07150d3f">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_fc98b3b28d14fd093039c29b452115bd14553614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\eef2c0b665bc41b07a7615edf5d34723b177c033\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a69067467c7e4d5c810ea19ee43cbfab00a292b4">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_88eceff947714a3cfe83e6ba73cd2f62fbb95376.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f40d28a4d9d33681ecf70b658a924b119658dc69\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70bf65523dc3db43f6c3749931976585a8f4dd20">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_0c7bc33dfb1ae5e8f7865bca2bc1298f65c0da41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.1\207a6efae6a3555e326de41f76bdadd9a239cbce\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="207a6efae6a3555e326de41f76bdadd9a239cbce">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\common-1.1.1_d726b740852ded478a01159b24ed43f9ad77d490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.1\e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95\common-1.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\common-1.1.1_ebc3d67d6182d5c5de5c212e52d6b430c496f980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\010b5e889f904076ea1f1d22cb1fa13106fc580f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b03dd36d3c106574e2cdeb8edd543bd5e51d0e">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_a2c15465fb5552a204987ccb59dfa0617d68580b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\65af7b8134a468c3b9be9d15fef6a5d251f68b4d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="afb9ac89f722ac83466f1bb5f2135010b7f05f32">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_777fef7f5adb40abfa7df5817284a6cb780a68f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\28.0.0\ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8\support-annotations-28.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed73f5337a002d1fd24339d5fb08c2c9d9ca60d8">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\support-annotations-28.0.0_4f98eff400c815eafcb6f694491fc81c9111a4f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\836f68f96976acbcf2ffbdd88ce44e5754710941\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddfc0d219f43bf3c1e357a55284cbd1000e461bf">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_428b6d7052ee40f18b54e643c3dbc3e402f9b22e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\965d5a494283f430ae0f58223fceabecb38089f2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19e63f5c3afd0a4379bfb830816bb8a9661aba75">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_7ace5fae53d1458b414b1b1f7bf5cd261320be12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f8bf879181e84d32a536c1ebc5c9f5ff835a0a3e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7b15ada2209f82b0249f331cb7ec70394dc2e828">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_c2778f0e88953e4457d25e634f6b65aed0bb5bf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\f6b2cc12026528a8bdfc03eaecda77777810b441\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8510837b7e70ee5f12cf2a20dd0a1b3d23a0cdeb">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_ea84cc82b78d8233fa4878bff1e9ee9ced048852.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9bf6b5776ca156fbe70d4e8a851d6c41f88a6406\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e85417e7990657be8fe07d63fd5278d82eb960e">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_a696e72a79f00342d64df99ad8f153894c5aa7b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\ca2c8375f99b82766ae3d181cc5590a3bb7ee803\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5b049b5525643f62ebe162013dae975c7e74dcc5">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\classes_e560429af43bdfe1bd7576cb740afb3463520399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\user\Desktop\speedometer-android-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_ee1e9c1b510a3448b90e65a93f91259edb8a0de6.jar" />
+    </item>
+
+</items>

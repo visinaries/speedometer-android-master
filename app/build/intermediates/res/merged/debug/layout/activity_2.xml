@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity2"
+    android:background="@color/white">
+
+
+    <TextView
+        android:id="@+id/alert"
+        android:layout_width="140dp"
+        android:layout_height="65dp"
+        android:layout_centerHorizontal="true"
+        android:text="ALERT"
+        android:textColor="#00ee00"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="180dp"
+        tools:layout_editor_absoluteY="46dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="257dp"
+        android:layout_height="95dp"
+        android:layout_below="@+id/alert"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Accident detetction Service has detected a Crash. Did an Accident Occur?"
+        android:textColor="#00ee00"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="77dp"
+        tools:layout_editor_absoluteY="123dp" />
+
+
+    <cn.iwgang.countdownview.CountdownView
+        android:id="@+id/countdownview"
+        android:layout_width="213dp"
+        android:layout_height="77dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="34dp"
+        app:isHideTimeBackground="false"
+        app:isShowDay="false"
+        app:isShowHour="false"
+        app:isShowMillisecond="false"
+        app:isShowMinute="false"
+        app:isShowSecond="true"
+        app:isTimeTextBold="true"
+        app:suffixGravity="center"
+        app:suffixMillisecond="ss"
+        app:suffixHour="h"
+        app:suffixMinute="m"
+        app:suffixSecond="s"
+        app:suffixTextColor="#F751F3CD"
+        app:suffixTextSize="12sp"
+        app:timeBgColor="#FF5000"
+        app:timeBgDivisionLineSize="1dp"
+        app:timeBgRadius="3dp"
+        app:timeBgSize="50dp"
+        app:timeTextColor="#F751F3CD"
+        app:timeTextSize="22sp"
+        >
+
+    </cn.iwgang.countdownview.CountdownView>
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/countdownview"
+        android:layout_centerHorizontal="true"
+        android:text="STOP"
+        android:onClick="clickexit"
+        />
+
+</RelativeLayout>
